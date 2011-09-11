@@ -1,4 +1,15 @@
 Sudoku Solver using AI techniques.
 More to come in this Readme. 
 
+- Compile sudoku.java and run.
+
+
+# Blanks per 3x3 box based on difficulty level:
+
+Easy:   (2-3)
+Medium:       (3-5)
+Hard:         (5-7)
+
+
+
 - Gaurav
