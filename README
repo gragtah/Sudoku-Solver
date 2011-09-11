@@ -10,6 +10,18 @@ Easy:   (2-3)
 Medium:       (3-5)
 Hard:         (5-7)
 
+------------
+When you run Sudoku, this is how it goes:
+
+$ java Sudoku
+Would you like to: (Enter 1 or 2)
+  1. Generate a Sudoku puzzle
+  2. Solve a Sudoku Puzzle
+  3. Exit
+
+This is pretty intuitive from here on, with the difficulty settings as mentioned above in terms of blanks per 3x3 block.
+Presently, backtracking and simulated annealing are implemented, with the former obviously being much much better.
+Working on smarter backtracking now (heuristics) and A*, also trying to get the genetic algorithm to work (file included)
 
 
 - Gaurav
